@@ -1,0 +1,6 @@
+2023-11-29 01:49:32.519138+02:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "'' (CATEGORY_ITEMS: ""ID"" BIGINT NOT NULL)"; SQL statement:
+INSERT INTO "PUBLIC"."CATEGORY_ITEMS"("ID","ITEM_IMAGE","NAME_CATEGORY","NAME_CATEGORY_ITEM")VALUES(?,?,?,?) [22018-224]
+2023-11-29 01:49:32.520138+02:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "'' (CATEGORY_ITEMS: ""ID"" BIGINT NOT NULL)"; SQL statement:
+INSERT INTO "PUBLIC"."CATEGORY_ITEMS"("ID","ITEM_IMAGE","NAME_CATEGORY","NAME_CATEGORY_ITEM")VALUES(?,?,?,?) [22018-224]
